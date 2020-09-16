@@ -8,6 +8,7 @@ h1, h2, h3{
   color: gold;
   padding: 10px;
   font-style: oblique;
+  text-align: center;
 }
 li {
   color: aliceblue;
@@ -15,4 +16,11 @@ li {
 h2{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-variant-caps: titling-caps;
+}
+img { 
+  border-radius: 50%;
+  padding: 10px;
+}
+.foto_sardinie {
+  position: absolute;
 }
